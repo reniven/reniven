@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 Reach me via [Email](erleofficialdom@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/erleofficialdom/).
 
 ## 🚀 Technologies & Tools
-ere are some of the tools and technologies I work with:
+Here are some of the tools and technologies I work with:
 
 Python 🐍 (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
 Machine Learning & Deep Learning 🤖
