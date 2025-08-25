@@ -22,3 +22,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 Reach me via [Email](erleofficialdom@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/erleofficialdom/).
+
+## 🚀 Technologies & Tools
+ere are some of the tools and technologies I work with:
+
+Python 🐍 (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
+Machine Learning & Deep Learning 🤖
+Generative AI ⚡️ & LangChain 🔗
+RAG Systems (Retrieval-Augmented Generation) 📚
+AI Agents & Tools 🧠
+ReactJS ⚛️ for front-end development
+Django 🏗️ & FastAPI ⚡️ for backend & API development
+SQL 📊 & NoSQL databases 🗄️
+Data Visualization 📈 (Matplotlib, Seaborn, Plotly)
+Git 🧑‍💻 & GitHub for version control
+Solid Principles 🏗️ & Design Patterns 🧩 for clean code architecture
