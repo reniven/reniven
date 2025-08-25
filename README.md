@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 ## 🚀 Technologies & Tools
 Here are some of the tools and technologies I work with:
 
-Python 🐍 (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
-Machine Learning & Deep Learning 🤖
-Generative AI ⚡️ & LangChain 🔗
-RAG Systems (Retrieval-Augmented Generation) 📚
-AI Agents & Tools 🧠
-ReactJS ⚛️ for front-end development
-Django 🏗️ & FastAPI ⚡️ for backend & API development
-SQL 📊 & NoSQL databases 🗄️
-Data Visualization 📈 (Matplotlib, Seaborn, Plotly)
-Git 🧑‍💻 & GitHub for version control
-Solid Principles 🏗️ & Design Patterns 🧩 for clean code architecture
+- Python 🐍 (NumPy, Pandas, Scikit-Learn, TensorFlow, Keras)
+- Machine Learning & Deep Learning 🤖
+- Generative AI ⚡️ & LangChain 🔗
+- RAG Systems (Retrieval-Augmented Generation) 📚
+- AI Agents & Tools 🧠
+- ReactJS ⚛️ for front-end development
+- Django 🏗️ & FastAPI ⚡️ for backend & API development
+- SQL 📊 & NoSQL databases 🗄️
+- Data Visualization 📈 (Matplotlib, Seaborn, Plotly)
+- Git 🧑‍💻 & GitHub for version control
+- Solid Principles 🏗️ & Design Patterns 🧩 for clean code architecture
