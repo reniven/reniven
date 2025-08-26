@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on interesting AI projects.
+- 🌱 I’m currently learning agentic agents.
 - 👯 I’m looking to collaborate on full stack development, AI and data science driven projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about data science, AI, deep learning, machine learning or any of the latest tech in general and how we can apply it to create a more interesting world.
 - 📫 Reach me via [Email](erleofficialdom@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/erleofficialdom/).
 
